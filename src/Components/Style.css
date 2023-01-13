@@ -1,0 +1,48 @@
+.home_title{
+    background-color: rgb(0, 145, 230);
+    text-align: center;
+    padding: 3px 0 3px 0;
+}
+.page{
+    width: 80%;
+    margin: 20px auto;
+
+}
+.user_img img{
+    width: 200px;
+}
+.users{
+    margin: 0 auto;
+}
+.card{
+    width: 25%;
+    background-color: rgb(231, 231, 231);
+    float: left;
+    margin: 20px;
+    padding: 20px;
+    align-items: center;
+    text-align: center;
+}
+.single_section{
+    background-color:  rgb(231, 231, 231);
+    margin: 50px;
+    height: 400px;
+    display: flex;
+}
+.single_section img{
+    height: 400px;
+}
+.back{
+    background-color: rgb(0, 145, 230);
+    padding: 25px 0 25px 0;
+}
+.btn{
+    text-decoration: none;
+    font-size: 20px;
+    padding-left: 20px;
+    color: #fff;
+}
+.detail {
+    margin: 50px;
+    width: 300px;
+}
